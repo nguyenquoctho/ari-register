@@ -75,7 +75,7 @@ const App = () => {
           },
           {
             len: 10,
-            message: "Please input your phone number with 8 characters!",
+            message: "Please input your phone number with 10 characters!",
           },
         ]}
       >
